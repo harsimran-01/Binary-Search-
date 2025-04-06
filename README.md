@@ -58,8 +58,6 @@ Copy
 Edit
 npm install
 npm run dev
-📸 Demo / Screenshots
-(Include GIFs or images of your game showing binary search in action.)
 
 📄 License
 This project is licensed under the MIT License.
